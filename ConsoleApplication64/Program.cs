@@ -12,6 +12,7 @@ namespace ConsoleApplication64
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Hello Earth");
+            Console.WriteLine("Show me the money");
         }
     }
 }
