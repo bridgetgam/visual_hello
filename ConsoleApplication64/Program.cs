@@ -17,6 +17,7 @@ namespace ConsoleApplication64
             Console.WriteLine("Yo Wassup");
             Console.WriteLine("Good bye");
             Console.WriteLine("Ewha");
+            Console.WriteLine("Hi world");
         }
     }
 }
